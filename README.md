@@ -27,6 +27,7 @@ Do not expose this server to the internet without proper authentication and auth
 
 3. **Responses**:
     - If the command execution is successful, the server responds with a `200 OK` status and the output of the command.
+   ![Response to dir (Windows 10)](https://github.com/HugoCls/HTTP-Reverse-Shell/blob/main/images/readme1.png)
     - If there's an error during command execution, a `200 OK` status with an error message is returned.
 
 4. **Remote Usage**:
