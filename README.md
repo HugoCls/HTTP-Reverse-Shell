@@ -16,7 +16,7 @@ Do not expose this server to the internet without proper authentication and auth
 
 1. **Run the Server**:
     - Ensure Python 3 is installed.
-    - Execute the server script using `python3 base64_server.py`.
+    - Execute the server script on the remote desktop using `python3 base64_server.pyw`.
     - The server will start listening on port 1234 by default.
 
 2. **Executing Commands**:
